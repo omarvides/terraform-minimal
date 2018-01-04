@@ -1,0 +1,11 @@
+terraform.tfvars
+backend.conf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/*
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+# .tfvars files
+*.tfvars
