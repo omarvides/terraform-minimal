@@ -18,6 +18,6 @@ terraform init -backend-config=backend.conf
 
 ## CHANGELOG 
 
-# 1.0.0 terraform state file storage at s3
+### 1.0.0 terraform state file storage at s3
 
 * This repository stores the tfstate file at a AWS S3 Bucket Key when initialized as indicated at ```Getting started``` section
